@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**elvis-kimutai/elvis-kimutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on low-level Programming<br>👯 I’m looking to collaborate on solving real-world problems<br>🤝 I’m looking for help with technical writing<br>🌱 I’m currently learning Machine learning<br>💬 Ask me about IT Automation<br>😄 Pronouns:He/Him<br>📫 How to reach me:@elvis-kimitaii<br>⚡ Fun fact - I love Football
 
