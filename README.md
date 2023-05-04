@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on low-level Programming<br>👯 I’m looking to collaborate on solving real-world problems<br>🤝 I’m looking for help with technical writing<br>🌱 I’m currently learning Machine learning<br>💬 Ask me about IT Automation<br>😄 Pronouns:He/Him<br>📫 How to reach me:@elvis-kimitaii<br>⚡ Fun fact - I love Football
+🔭 I’m currently working on low-level Programming<br>👯 I’m looking to collaborate on solving real-world problems<br>🤝 I’m looking for help with technical writing<br>🌱 I’m currently learning Machine learning<br>💬 Ask me about IT Automation<br>😄 Pronouns:He/Him<br>📫 How to reach me:@elvis-kimutaii<br>⚡ Fun fact - I love Football
 
 
 ## 🌐 Socials:
